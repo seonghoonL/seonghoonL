@@ -20,5 +20,3 @@
 java
 </details>
 ing..
-Let's go
-Mmm.. maybe tommorow
