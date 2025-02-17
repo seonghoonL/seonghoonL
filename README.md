@@ -17,7 +17,7 @@
 <summary>
   더 배우고 싶은것들
 </summary>
-우선 파이썬..
+java
 </details>
 ing..
 Let's go
