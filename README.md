@@ -53,3 +53,36 @@ ing..
 ## 📢 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/tkfkds99)
+## practi
+<br/><br/>
+<details>
+<summary>
+  더 배우고 싶은것들
+</summary>
+java
+</details>
+ing..
+<br/><br/>
+<details>
+<summary>
+  더 배우고 싶은것들
+</summary>
+java
+</details>
+ing..
+<br/><br/>
+<details>
+<summary>
+  더 배우고 싶은것들
+</summary>
+java
+</details>
+ing..
+<br/><br/>
+<details>
+<summary>
+  더 배우고 싶은것들
+</summary>
+java
+</details>
+ing..
