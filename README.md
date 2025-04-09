@@ -18,6 +18,11 @@
   더 배우고 싶은것들
 </summary>
 java
+AI
+react
+프로그래밍 실력
+업무
+비지니스
 </details>
 ing..
 ## 🔥 Most Used Languages
@@ -47,7 +52,7 @@ ing..
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+![Intellij](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=itellij&logoColor=white)
 ---
 
 ## 📢 Connect with Me
