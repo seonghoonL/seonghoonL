@@ -30,6 +30,10 @@ react
 비지니스
   <br/><br/>
 APP
+  <br/><br/>
+  azure
+  <br/><br/>
+  
 </details>
 ing..
 ## 🔥 Most Used Languages
@@ -75,3 +79,11 @@ lol1590
 ## practi
 <br/><br/>
 <details>
+수정 예정입니다.
+  <br/><br/>
+백준 프로필 연동
+<br/><br/>
+  이메일 연동
+<br/><br/>
+  그외 배우고 싶은 언어 가능한 언어 등등 <br/><br/>
+  <br/><br/>
