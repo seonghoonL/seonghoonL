@@ -56,33 +56,3 @@ ing..
 ## practi
 <br/><br/>
 <details>
-<summary>
-  더 배우고 싶은것들
-</summary>
-java
-</details>
-ing..
-<br/><br/>
-<details>
-<summary>
-  더 배우고 싶은것들
-</summary>
-java
-</details>
-ing..
-<br/><br/>
-<details>
-<summary>
-  더 배우고 싶은것들
-</summary>
-java
-</details>
-ing..
-<br/><br/>
-<details>
-<summary>
-  더 배우고 싶은것들
-</summary>
-java
-</details>
-ing..
