@@ -18,11 +18,18 @@
   더 배우고 싶은것들
 </summary>
 java
+  <br/><br/>
 AI
+  <br/><br/>
 react
+  <br/><br/>
 프로그래밍 실력
+  <br/><br/>
 업무
+  <br/><br/>
 비지니스
+  <br/><br/>
+APP
 </details>
 ing..
 ## 🔥 Most Used Languages
@@ -58,6 +65,13 @@ ing..
 ## 📢 Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/tkfkds99)
+<br/><br/>
+tkfkds44@naver.com
+<br/><br/>
+tkfkds998811@gmail.com
+<br/><br/>
+lol1590
+<br/><br/>
 ## practi
 <br/><br/>
 <details>
