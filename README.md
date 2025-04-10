@@ -27,14 +27,9 @@
          <a href=https://www.notion.so/1d133cb485e7809da8d7eba29ebc4594?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white&link=https://www.notion.so/1d133cb485e7809da8d7eba29ebc4594?pvs=4"> </a>
          <a href=mailto:tkfkds998811@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:tkfkds998811@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FseonghoonL%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-🔥 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoonL&show_icons=true&theme=radical)
 
-          /> </div> 
-    </div>
-    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoonL&show_icons=true&theme=radical)
