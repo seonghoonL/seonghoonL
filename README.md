@@ -39,5 +39,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoonL&show_icons=true&theme=radical)
 
-![A등급으로 위장한 이미지](https://github-readme-stats.vercel.app/api?username=seonghoonL&show_icons=true&rank_icon=github)
+![seonghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghoonL&show_icons=true&rank_icon=github)
 
