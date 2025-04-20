@@ -35,5 +35,5 @@
   
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=seonghoonL&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=seojun133&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonghoonL&layout=compact&theme=radical" />
 </div>
